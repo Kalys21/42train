@@ -1,0 +1,2 @@
+FT_USER=root
+groups FT_USER 
